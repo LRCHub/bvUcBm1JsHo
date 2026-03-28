@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "Scrap Do",
+  "base_artist": "ロクデナシ宇宙",
+  "createdAt": "2026-03-28T14:02:50.608617Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Scrap Do",
+      "artist": "ロクデナシ宇宙",
+      "has_synced": false,
+      "path": "select/pl_01_Scrap_Do_ロクデナシ宇宙.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Scrap Do",
+      "artist": "ロクデナシ宇宙",
+      "has_synced": false,
+      "path": "select/localdb_01_Scrap_Do_ロクデナシ宇宙.txt",
+      "repo_name": "aefj3IoSrOA"
+    }
+  ]
+}
